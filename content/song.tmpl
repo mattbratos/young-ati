@@ -1,0 +1,286 @@
+# Song Template — Young ATI
+
+> This template defines the canonical structure for every song file in `content/`.
+> Every `.md` song file should follow this layout. The template is informed by
+> the writing processes of Eminem, Kendrick, Jay-Z, Nas, Lil Wayne, Drake,
+> Tyler the Creator, MF DOOM, and Kanye — cross-referenced with rap theory
+> and optimized for Suno AI generation.
+
+---
+
+## File Format
+
+```markdown
+[Section Tag]
+Lyric line one (adlib)
+Lyric line two
+Lyric line three (adlib)
+Lyric line four
+
+[Next Section Tag]
+...
+
+
+**Suno style prompts:**
+
+Primary style prompt tags here
+
+Alternative 1 tags here
+
+Alternative 2 tags here
+
+Alternative 3 tags here
+
+
+<!-- flow notes:
+**Changes made:**
+- Line-by-line changelog of edits
+
+**Adlibs added:**
+- Adlib strategy explanation
+
+**Held back:**
+- Suggestions the artist can choose to apply or ignore
+-->
+```
+
+---
+
+## Section Tags (Suno-Compatible)
+
+Use these exact tags. Suno reads them as structural instructions.
+
+### Core Sections
+- `[Intro]` — 2-4 bars. Scene-setting or cold-open punchline. Optional.
+- `[Intro - Spoken]` — Spoken word intro. Conversational, sets the frame.
+- `[Verse 1]`, `[Verse 2]`, `[Verse 3]` — 12-16 bars each. The meat.
+- `[Chorus]` or `[Chorus x2]` — 4-8 bars. The mantra. Repeat marker works.
+- `[Hook]` — Short catchy phrase, can replace or live inside chorus.
+- `[Bridge]` or `[Bridge - Melodic]` — 4-8 bars. Contrast section. Change energy.
+- `[Outro]` or `[Outro - Spoken]` — 2-4 bars. Resolution or cliffhanger.
+
+### Vocal Control Tags
+- `[Chorus - Female Vocal]` — Triggers female vocal delivery in Suno.
+- `[Rap Verse]` — Forces rapped (not sung) delivery.
+- `[Whispered]` — Quiet, intimate delivery.
+- `[Verse 1: Male Vocal]` — Explicit voice assignment.
+
+### Energy Tags
+- `[Pre-Chorus]` — Buildup before the chorus drops.
+- `[Post-Chorus]` — Ride-out energy after chorus.
+- `[Break]` — Short instrumental pause (bass/percussion only).
+- `[Instrumental]` — Non-vocal section. Prevents random AI vocals.
+- `[Drop]` — Energy peak moment (Suno v5).
+- `[Build]` — Tension-building section (Suno v5).
+
+---
+
+## Song Structures
+
+Pick one. Don't default to the same structure every time.
+
+### Standard (most common)
+```
+[Intro] → [Verse 1] → [Chorus] → [Verse 2] → [Chorus] → [Bridge] → [Chorus] → [Outro]
+```
+
+### Hook-First (Drake method — hook grabs attention immediately)
+```
+[Chorus] → [Verse 1] → [Chorus] → [Verse 2] → [Chorus]
+```
+
+### Verse-Heavy (when bars are the point)
+```
+[Verse 1] → [Chorus] → [Verse 2] → [Chorus] → [Verse 3] → [Chorus]
+```
+
+### Storytelling (Kendrick/Nas — narrative arc)
+```
+[Intro - Spoken] → [Verse 1] → [Chorus] → [Verse 2] → [Bridge] → [Verse 3] → [Outro]
+```
+
+### Short Track (Quebo energy — say it and get out)
+```
+[Verse 1] → [Chorus] → [Verse 2] → [Chorus]
+```
+
+### No Chorus (pure bars, underground)
+```
+[Verse 1] → [Verse 2] → [Verse 3] → [Outro]
+```
+
+### Bookend (spoken frame — self-aware)
+```
+[Intro - Spoken] → [Verse 1] → [Chorus] → [Verse 2] → [Chorus] → [Outro - Spoken]
+```
+
+---
+
+## Bar Counts
+
+| Section | Standard | Range | Notes |
+|---------|----------|-------|-------|
+| Intro | 2-4 bars | 0-8 | Shorter = punchier. 0 = cold open. |
+| Verse | 16 bars | 8-24 | 12-16 is Young ATI's sweet spot |
+| Chorus | 4 bars | 2-8 | Mantra hooks can be 2 bars repeated |
+| Bridge | 4 bars | 2-8 | Change the energy, not just the words |
+| Outro | 2-4 bars | 0-8 | Can be spoken, sung, or just a tag |
+
+**Suno constraint:** Keep total lyrics under 3,000 characters / ~200 words / ~30-40 lines for a 3-4 minute track. Suno rushes or skips when overwhelmed.
+
+---
+
+## Line Construction Rules
+
+### Syllable Targets
+- **Rap bars:** 8-12 syllables per line (Suno sweet spot)
+- **Melodic/hook bars:** 6-10 syllables
+- **Spoken word:** natural speech length
+
+Lines with 15+ syllables make Suno rush or switch to singing. If a bar is too long, split it across two lines or cut words.
+
+### Rhyme Schemes
+
+Use a mix. Don't stick to one pattern for the whole song.
+
+| Scheme | Pattern | When to Use |
+|--------|---------|-------------|
+| Couplets (AABB) | Lines 1-2 rhyme, 3-4 rhyme | Default. Setup → punchline in 2-bar units. |
+| Alternating (ABAB) | Lines 1&3, 2&4 rhyme | Builds tension. Listener waits for resolution. |
+| Monorhyme (AAAA) | Every line same end sound | Intensity. Use for 4-bar runs, not whole verses. |
+| Internal | Rhymes within the line | Adds density and bounce. Layer on top of end rhymes. |
+| Multisyllabic | 2-3 syllable rhyme units | Shows craft. "medical kit / skeptical wit" |
+| Slant | Near-rhymes | Prevents sing-song predictability. Use 20-30% of the time. |
+| Free | No fixed pattern | Modern feel. Rhymes land unpredictably. |
+
+**Eminem rule:** Build the rhyme scheme first (sound-matching), then fit meaning into it. Stack internal rhymes on top of end rhymes for density.
+
+**DOOM rule:** Shift the rhyme scheme every 4-8 bars. Never let the pattern become predictable.
+
+### Punchline Anatomy
+
+Every 2-4 bars should have a punchline. Types:
+
+- **Double entendre** — One phrase, two meanings. Most valued.
+- **Simile** — "like" / "as" comparisons. Lil Wayne signature.
+- **Metaphor** — Direct comparison, no "like." Hits harder than simile.
+- **Flip** — Take a common phrase, subvert the last word.
+- **Callback** — Reference a bar from earlier in the song.
+- **Culture bomb** — Pop culture reference that IS the punchline (not decoration).
+
+**Setup-punch structure:** Setup bar (builds expectation) → Punch bar (subverts or delivers). The best bars combine clever wordplay WITH emotional hit.
+
+---
+
+## Flow & Cadence
+
+### The Pocket
+Match your syllable density to the beat:
+- **Quarter notes** (1 syllable/beat) — slow, heavy, deliberate
+- **Eighth notes** (2 syllables/beat) — standard rap cadence
+- **Sixteenth notes** (4 syllables/beat) — double-time, rapid-fire
+- **Triplets** (3 syllables/beat) — bouncy trap feel
+
+### Variation is Everything
+- Change flow every 4-8 bars to prevent listener fatigue
+- Alternate dense bars (14+ syllables) with short punchy bars (6-8)
+- Push ahead of the beat for urgency, fall behind for laid-back feel
+- Use pauses as rhythmic tools — silence hits harder than words sometimes
+
+### Melodic Moments (Young ATI Signature)
+Extended vowels signal sing-rap delivery:
+- `loooooow`, `fuuuun`, `craaazy`, `heeeeell`
+- Suno actually stretches the note on extended vowels
+- Use on emotional peaks or chorus lines
+- 1-2 per verse max, more in hooks
+
+---
+
+## Adlibs
+
+Adlibs go in parentheses at the END of lines. Suno treats `()` as background/secondary vocals.
+
+### Energy Levels
+| Type | Examples | When |
+|------|----------|------|
+| Hype | (woo!), (sheesh), (let's go) | After flex bars, energy peaks |
+| Reaction | (damn), (wow), (god damn) | After hard punchlines |
+| Texture | (uh), (yeah), (nah) | Fill rhythmic gaps, add bounce |
+| Sound FX | (skrrt), (brr), (pow), (beep boop) | Momentum shifts, metaphor emphasis |
+| Echo | Repeat last word: "ghost (ghost)" | Emphasize key words |
+| Soft | (no love), (why though?) | Vulnerable moments, chorus |
+
+### Rules
+- ~40-60% of bars get adlibs. Not every line.
+- Never interrupt the bar — adlibs go at the end.
+- Match energy: hard bars → hard adlibs, vulnerable bars → soft or none.
+- Don't repeat the same adlib more than twice per song.
+- Chorus gets minimal adlibs — keep it clean for repetition.
+
+---
+
+## Suno Optimization
+
+### Style Prompt Format
+```
+Genre, Subgenre, Mood, Vocal Style, Instruments, Tempo, Special
+```
+- 5-8 tags, under 200 characters (Suno truncates silently beyond this)
+- Front-load the most important tags (Suno weighs early tags more)
+- Always include 4 alternative prompts for experimentation
+
+### Getting Suno to Rap (Not Sing)
+- Use specific sub-genres: "trap rap," "boom bap," "drill" — not just "hip-hop"
+- Add `[Rap Verse]` tag before rap sections
+- Keep lines under 10 syllables where possible
+- Use "aggressive delivery" or "fast flow" in style prompt
+- Match syllable counts across lines for rhythmic consistency
+
+### Suno Formatting Tricks
+- **ALL CAPS + !** = louder, more intense delivery: `I WILL NOT BREAK!`
+- **Ellipses** (`...`) = dramatic pauses
+- **Empty lines** = let the instrumental breathe
+- **Extended vowels** = stretched notes
+- **Commas** = short pauses in delivery
+- `[Instrumental Break]` = prevents random AI vocals
+
+### Always Provide
+1. **Primary prompt** — the main vision for the track
+2. **Harder variation** — darker, more aggressive
+3. **Softer variation** — more melodic, atmospheric
+4. **Wildcard** — unexpected genre that could work
+
+---
+
+## The Three Layers (from style.md)
+
+Every song file has three layers, in this order:
+
+### 1. Lyrics
+The actual song — section tags, bars, adlibs. This is what gets pasted into Suno.
+
+### 2. Suno Style Prompts
+After a blank line below the lyrics. 4 style prompts, separated by blank lines. Plain text, no backticks (easy to copy-paste into Suno).
+
+### 3. Flow Notes
+Inside `<!-- flow notes: -->` HTML comment. Invisible to Suno, visible to the artist. Contains:
+- **Changes made** — line-by-line edit log
+- **Adlibs added** — adlib strategy explanation
+- **Held back** — suggestions the artist can choose to apply
+
+For tracks rewritten in a specific style (e.g., Quebo), use the appropriate notes tag: `<!-- quebo notes: -->`.
+
+---
+
+## Writing Process (The Hybrid Method)
+
+Synthesized from the GOATs:
+
+1. **Collect raw material** (Eminem + Kendrick) — emotions, images, phrases, wordplay ideas. Daily.
+2. **Build rhyme arsenal** (Eminem) — break phrases into syllables, find matching sounds, stack options.
+3. **Decide what the song should DO** (Tyler) — not what it's about, what it should MAKE the listener feel.
+4. **Write the hook first** (Drake + Kanye) — the hook is the thesis. Everything radiates from it.
+5. **Build verses around the hook** (Kendrick) — each verse is a chapter with its own mini-arc.
+6. **Layer complexity** (DOOM + Eminem) — first pass: ideas + basic rhymes. Second pass: upgrade rhymes, add internals. Third pass: wordplay, double entendres, punchlines.
+7. **Record and refine** (Wayne + Kanye) — willing to rewrite 20 times. No shame in building bar by bar.
+8. **Add adlibs last** — use them to emphasize best bars and fill rhythmic gaps.

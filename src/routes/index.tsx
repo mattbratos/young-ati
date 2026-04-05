@@ -1,12 +1,16 @@
 import { createFileRoute } from "@tanstack/react-router"
 import { Button } from "@/components/ui/button"
+import { ThemeToggle } from "@/components/theme-toggle"
 
 export const Route = createFileRoute("/")({ component: App })
 
 function App() {
   return (
-    <div className="flex min-h-svh p-6">
-      <div className="flex max-w-md min-w-0 flex-col gap-4 text-sm leading-loose">
+    <div className="flex min-h-svh flex-col p-6">
+      <div className="flex justify-end">
+        <ThemeToggle />
+      </div>
+      <div className="flex max-w-md min-w-0 flex-col gap-4 text-sm leading-loose grow">
         <div>
           <h1 className="font-medium">Project ready!</h1>
           <p>You may now add components and start building.</p>

@@ -51,7 +51,7 @@ function Buildings() {
         const z = -row * spacingZ
         const hue = rand() > 0.7 ? (rand() > 0.5 ? 0.55 : 0.85) : 0.0
         const sat = hue > 0 ? 0.8 + rand() * 0.2 : 0
-        const lit = 0.03 + rand() * 0.04
+        const lit = 0.08 + rand() * 0.12
 
         items.push({ height, width, depth, x, z, hue, sat, lit, key: `${row}-${col}` })
       }
@@ -69,7 +69,7 @@ function Buildings() {
       const floorsX = Math.max(1, Math.floor(b.width / 1.1))
       for (let fy = 0; fy < floorsY; fy++) {
         for (let fx = 0; fx < floorsX; fx++) {
-          if (wrand() > 0.45) continue
+          if (wrand() > 0.65) continue
           const wx = b.x - b.width / 2 + (fx + 0.5) * (b.width / floorsX)
           const wy = 0.6 + fy * 1.2
           const wz = b.z + b.depth / 2 + 0.02
@@ -223,13 +223,14 @@ export function CityScene() {
         gl={{ antialias: true, alpha: false }}
         onCreated={({ scene }) => {
           scene.background = new THREE.Color("#020205")
-          scene.fog = new Fog("#020205", 30, 160)
+          scene.fog = new Fog("#020205", 60, 200)
         }}
       >
-        <ambientLight intensity={0.04} />
-        <pointLight position={[0, 30, 10]} intensity={0.5} color="#1a1aff" />
-        <pointLight position={[-20, 20, -30]} intensity={0.3} color="#ff00aa" />
-        <pointLight position={[20, 20, -60]} intensity={0.2} color="#00ffcc" />
+        <ambientLight intensity={0.25} />
+        <pointLight position={[0, 30, 10]} intensity={4} color="#4444ff" />
+        <pointLight position={[-20, 20, -30]} intensity={3} color="#ff00aa" />
+        <pointLight position={[20, 20, -60]} intensity={2} color="#00ffcc" />
+        <pointLight position={[0, 10, 5]} intensity={1.5} color="#ffffff" />
         <Ground />
         <Road />
         <Buildings />

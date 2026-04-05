@@ -54,11 +54,11 @@ export function MapboxCity() {
                 "interpolate",
                 ["linear"],
                 ["get", "height"],
-                0,   "#0a0a1a",
-                20,  "#0c0c22",
-                60,  "#0e0e2e",
-                120, "#11113a",
-                200, "#14144a",
+                0,   "#12122e",
+                20,  "#1a1a40",
+                60,  "#1e1e55",
+                120, "#22226a",
+                200, "#2a2a88",
               ],
               "fill-extrusion-height": [
                 "interpolate", ["linear"], ["zoom"],
@@ -84,7 +84,7 @@ export function MapboxCity() {
           (l: any) => l.id.startsWith("road") && l.type === "line"
         )
         roadLayers.forEach((l: any) => {
-          map.setPaintProperty(l.id, "line-color", "#0a1a2e")
+          map.setPaintProperty(l.id, "line-color", "#0d3a5c")
         })
 
         // Slow rotation — Warsaw slowly spinning under you

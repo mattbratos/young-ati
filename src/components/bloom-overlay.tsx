@@ -96,7 +96,7 @@ function ScanLine() {
 
 export function BloomOverlay() {
   return (
-    <div className="pointer-events-none absolute inset-0">
+    <div className="pointer-events-none absolute inset-0" style={{ mixBlendMode: "screen" }}>
       <Canvas
         camera={{ position: [0, 8, 30], fov: 60, far: 300 }}
         gl={{ alpha: true, antialias: false }}

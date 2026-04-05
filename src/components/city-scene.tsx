@@ -219,11 +219,12 @@ export function CityScene() {
   return (
     <div className="absolute inset-0">
       <Canvas
-        camera={{ position: [0, 6, 20], fov: 65, near: 0.1, far: 400 }}
+        camera={{ position: [0, 40, 60], fov: 55, near: 0.1, far: 400 }}
         gl={{ antialias: true, alpha: false }}
-        onCreated={({ scene }) => {
+        onCreated={({ scene, camera }) => {
           scene.background = new THREE.Color("#020205")
           scene.fog = new Fog("#020205", 60, 200)
+          camera.lookAt(0, 0, -40)
         }}
       >
         <ambientLight intensity={0.25} />

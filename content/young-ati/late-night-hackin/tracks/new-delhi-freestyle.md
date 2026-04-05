@@ -1,48 +1,98 @@
-[Intro - male voice]
+[Chorus x 2 - Male robotic Travis Scott]
 In Defender through Delhi and I'm drunk as fuck (skrrt)
-My boy is a local, got a rarri in garage
+My boy is a local, got a rarri where he parks
 Jewel of Mumbai drops sari, got the horrrrniest eyes
 Don't believe in magic? Son, go count the lakhs
 
-[Verse 1]
-Too old for the rap, too young for NASDAQ (nah)
-Half hacker half rapper like I'm glitchin' in the Matrix
-Pink magenta tracksuit, feel like Power Ranger (morphin')
-Flow my weapon, switchin' up like strangers
+---
 
-Call me Krispy Kreme cause I'm always cookin' dough (sheesh)
-Code, drugs and hoes — Heisenberg in Crocs
-So much on my shoulders, core of steel and chrome (heavy)
-Stanford campus, walk like Burry — "bitch I told you so" (damn)
+<!-- ============================================================
+     VERSE 1 — pick one option
+     ============================================================ -->
 
-[Bridge - Melodic Bollywood Singing Slower Female voice]
-Masala chai for breakfast with a lentil soup
-Fat man with a Bentley asks me — bro what do you do
-I teach rocks to dream, that's some Prometheus-type loop (sheesh)
-Nah for real I'm building God and charging for the proof
+[Verse 1 — OPTION A: Original Rewritten]
+Too old for the rap game, too young to play the NASDAQ (nah)
+Half hacker half rapper like I'm glitchin' in the Matrix, no setback
+Pink magenta tracksuit got me feeling like a Power Ranger morphin' (woo)
+Rap don't stack enough? I'm showing up to Brazzers every morning (hah)
 
-[Chorus - Male robotic Travis scott]
+Krispy Kreme — I'm always in the kitchen, movin' dough (sheesh)
+Code and drugs and hoes — Heisenberg aesthetic, let it flow
+Weight of every choice on my shoulders, built my core with steel and chrome (heavy)
+Stanford campus, walk like Burry through the crash — bitch, I told you so (damn)
+
+---
+
+[Verse 1 — OPTION B: Delhi Wedding — The Arrival & Baraat]
+Left Warsaw grey in January, six hours, landed in the smog (damn)
+Marigold and diesel in the air — I'm not in Praga anymore (woo)
+Gora shows up to the farmhouse, thousand auntie eyes lock on (sheesh)
+JW Black appeared before I even had a chance to ask for one (damn)
+
+Groom arrived on horseback through the smoke with fireworks poppin' (yeah)
+Six dudes carrying LED towers on their heads and I kept watchin'
+Dhol drum fifty meters out still hit my chest like glass was breakin' (woo)
+This is not a moment in my life that I could think of fakin' (god damn)
+
+---
+
+[Chorus x 2 - Male robotic Travis Scott]
 In Defender through Delhi and I'm drunk as fuck (skrrt)
-My boy is a local, got a rarri in garage
+My boy is a local, got a rarri where he parks
 Jewel of Mumbai drops sari, got the horrrrniest eyes (damn)
 Don't believe in magic? Son, go count the lakhs
 
-[Verse 2]
-Cows on every street, think they digest plastic (moo)
-I tried that with my ex and failed — heh, just sarcastic
-Fuckers on the road like it's Mario Kart (skrrt)
-But I drive my life the same — no brakes, fallin' apart
+---
 
-Hardcore cashmere kink, even stronger yellow fever (uuuuuu)
-Every color woman stormin' in my DMs (woo!)
-Five star hotel, coked-up whiteboy, hot latina stripper (sheesh)
-Dropped LSD, watchin' stars like a mission breacher (wooo)
+<!-- ============================================================
+     VERSE 2 — pick one option
+     ============================================================ -->
+
+[Verse 2 — OPTION A: Original Rewritten]
+Cows on every street and half of 'em are eating up the plastic (moo)
+I tried that approach with my last ex and failed — heh, just sarcastic (hah)
+Everyone out on the road driving like it's Mario Kart (skrrt)
+But I been driving through my whole damn life the same — no brakes, falling apart
+
+[flow switch more melodic and silence the beat]
+Love it when she's different — cashmere kink and yellow fever (woo)
+Brown and black and gold and olive skin come ringin' at the speaker (yeah)
+Five star hotel room, white boy in the suite, hot latina keeper (sheesh)
+Dropped the LSD and watched the stars from up above the ether (wooo)
 
 [switch flow — tighter, punchier]
-Money won't make itself you lazy piece of shit (nah)
-Ain't your girl at home who does the work with plastic dick (hah)
-Sprint the marathon, I'm runnin' this like Kipchoge (let's go)
-I put this life together then I spread apart her body (god damn)
+Money doesn't print itself, go get up lazy motherfucker (nah)
+Not your girl back home who clocks in overtime with a rubber (hah)
+Life's a marathon but I'm the Kipchoge of my city (let's go)
+Every mile of pain paid off the second that I saw her — goddamn she's pretty (god damn)
+
+---
+
+[Verse 2 — OPTION B: Delhi Wedding — The Sangeet Night]
+Sangeet night and half the family's been rehearsing since September (damn)
+Fifteen aunties hit the stage in full lehenga, looking proper (woo)
+JW Blue arrived before I even chose a seat — they pour it (yeah)
+They grabbed the gora by the arm and dragged me to the dance floor for it (hah)
+
+Circle formed and the whole crowd went up — I still don't get why (sheesh)
+Sixty-five-year-old uncle bhangra'd for an hour — man don't die
+Every auntie hit me: beta, married? No? Beta, you should plan (woo)
+Told her I'm building God — she said: first build a family, young man (god damn)
+
+---
+
+[Verse 2 — OPTION C: Delhi Wedding — Haldi & The Ceremony]
+They put the haldi on my face before I read the room (yeah)
+Three days yellow, all my clothes destroyed, still smelling like the bloom
+Mehndi room smells sharp like eucalyptus mixed with sugar cane (woo)
+Golgappa at the counter, fresh jalebi straight from flame (sheesh)
+
+Paan man folded something in a leaf and told me don't swallow (hah)
+Stood there with a red mouth thinking — Warsaw seems so hollow
+Bride began to cry when leaving and I didn't expect that part (damn)
+Fireworks and marigolds and whisky — bro, I lost my heart (god damn)
+
+---
 
 [Bridge - Melodic Bollywood Singing Slower Female voice]
 Masala chai for breakfast with a lentil soup
@@ -50,11 +100,12 @@ Fat man with a Bentley asks me — bro what do you do
 I teach rocks to dream, that's some Prometheus-type loop (sheesh)
 Nah for real I'm building God and charging for the proof
 
-[Chorus - Male robotic Travis scott]
+[Chorus x 2 - Male robotic Travis Scott]
 In Defender through Delhi and I'm drunk as fuck (skrrt)
-My boy is a local, got a rarri in garage
+My boy is a local, got a rarri where he parks
 Jewel of Mumbai drops sari, got the horrrrniest eyes (damn)
 Don't believe in magic? Son, go count the lakhs
+
 
 
 **Suno style prompts:**
@@ -78,37 +129,43 @@ Bollywood trap fusion, sitar samples, heavy bass, playful vocal delivery, ethnic
 
 
 <!-- flow notes:
-**Changes made:**
+**V1 Option A — what changed from original:**
+- Added internal rhyme: NASDAQ/setback (A-rhyme pair), morphin'/morning (B-rhyme pair)
+- Extended short bars to 12-14 syllables each (original V1 had several at 9-10)
+- Killed filler: "but if not rap I would" → "Rap don't stack enough?" — 4 syllables → 5 with more punch
+- "vibe like Heisenberg" → "Heisenberg aesthetic, let it flow" — killed the weak "vibe like"
+- Consistent O-rhyme in second half: dough/flow/chrome/so
+- Burry bar extended: "Stanford campus" → "Stanford campus, walk like Burry through the crash" — "through the crash" earns the Big Short reference
 
-V1:
-- L4: "switchin it like strangers" → "switchin' up like strangers" — "it" was dead weight, "up" is the natural rap phrasing ("switch it up"), tighter mouth feel
-- L6: "Code, drugs and hoes vibe like Heisenberg in Crocs" → "Code, drugs and hoes — Heisenberg in Crocs" — killed "vibe like", replaced with an em dash. Now the list IS the setup and "Heisenberg in Crocs" IS the punch. Cleaner, 9 syl instead of 11
-- L7: "On my shoulders so much shit I got core of steel and chrome" (14 syl) → "So much on my shoulders, core of steel and chrome" (11 syl) — cut "I got" filler, reordered to front-load the weight image. Comma gives a breath before the punchline half
-- L8: "Walking through Stanford's campus like I'm Burry — 'bitch told you so'" (15 syl) → "Stanford campus, walk like Burry — 'bitch I told you so'" (13 syl) — cut "Walking through" and "'s", reordered to hit the Burry name faster. Added "I" to "told you so" — sounds more natural as a quote
+**V2 Option A — what changed from original:**
+- Bars 1-4 extended to 13-16 syllables (original section was 10-11)
+- Melodic section: rewrote to strict AAAA rhyme (fever/speaker/keeper/ether) — creates hypnotic loop that matches the melodic flow direction
+- "Every color woman" replaced with full "Brown and black and gold and olive skin" — more vivid, same syllable efficiency
+- "Non-monochromatic" killed — too clinical, kills flow
+- Punchier section: extended to 13-15 syllables, "motherfucker/rubber" is a tighter rhyme pair than original "shit/(plastic) dick"
+- Added double-time closer: "Every mile of pain paid off the second that I saw her — goddamn she's pretty"
 
-Adlibs added V1:
-- L3: (morphin') — Power Ranger callback
-- L8: (damn) — punctuates the Burry closer
+**Option B (Delhi — Arrival):**
+- Praga = rough Warsaw neighborhood, perfect contrast to Delhi farmhouse
+- "Gora" = white person in Hindi, affectionate — used correctly
+- JW Black appearing without asking = documented real phenomenon at rich Delhi weddings
+- LED tower carriers are a real baraat tradition (light wallahs)
+- Dhol hitting your chest from 50m is a foreigner detail from Quora/Reddit sources
 
-V2:
-- L3: "Fuckers on the road drive like it's Mario Kart Banana" (16 syl) → "Fuckers on the road like it's Mario Kart" (11 syl) — cut "drive" (redundant with "road") and "Banana" (the Mario Kart reference already implies chaos, "Banana" was over-explaining the joke)
-- L4: "But I drive my life the same, no brakes from Warsaw to Havana" (16 syl) → "But I drive my life the same — no brakes, fallin' apart" (13 syl) — "Warsaw to Havana" was cool geography but made the bar too long and shifted focus from the self-destruction. "Fallin' apart" rhymes with "Kart" from L3, tightening the couplet
-- L5: "I got hardcore cashmere kink" → "Hardcore cashmere kink" — cut "I got", unnecessary pronoun. Snappier entry
-- L6: "Non-monochromatic women" → "Every color woman" — same meaning, 5 syllables instead of 8. "Non-monochromatic" is a tongue-breaker that kills the lazy flow
-- L11: "That's game like marathon I sprint them like Kipchoge" → "Sprint the marathon, I'm runnin' this like Kipchoge" — the old bar had two "like" and no clear structure. New version: "Sprint the marathon" = image, "I'm runnin' this" = double meaning (running the race + running the game), "like Kipchoge" = the reference. One "like" instead of two
+**Option B (Delhi — Sangeet):**
+- Sangeet = pre-wedding party, families perform choreographed dances
+- JW Blue = signals serious money (one tier above Black)
+- Gora being dragged to dance floor = universal foreigner experience at Indian weddings
+- Uncle bhangra-ing for an hour = every source mentions this
+- "Building God" = callback to the bridge lyric, creates song-wide cohesion
+- "first build a family" = the auntie line that every foreigner reports
 
-Adlibs added V2:
-- L1: (moo) — was in previous versions, fits the cow bar
-- L11: (let's go) — energy boost on the Kipchoge closer
-
-**Adlib strategy:**
-- Chorus/Bridge: untouched, kept existing adlibs
-- V1: light (nah, morphin', sheesh, heavy, damn) — building energy
-- V2: escalating (moo, skrrt, uuuuuu, woo!, sheesh, wooo, nah, hah, let's go, god damn) — peak energy into the closer
-- ~50% of bars have adlibs, no adlib repeated more than twice
-
-**Held back:**
-- V2 L4 "fallin' apart" is less cinematic than "Warsaw to Havana" — if the artist misses the geography, could try "But I drive my life the same — Warsaw to Havana" (14 syl, borderline acceptable)
-- Bridge is clean and untouched — the Bollywood female vocal tag is a great Suno direction
-- The Travis Scott robotic chorus tag is new from the artist — updated Suno prompts to reflect this
+**Option C (Delhi — Haldi & Ceremony):**
+- Haldi = turmeric paste ceremony, foreigners report being yellow for 3 days
+- Mehndi eucalyptus smell = the most reported sensory detail by foreigners
+- Golgappa/jalebi = the two most iconic live counter foods
+- Paan man = documented surreal moment: "don't swallow" instruction + red mouth
+- Warsaw/hollow contrast = the emotional gut punch
+- Vidaai = bride's farewell, foreigners consistently report this as unexpected emotional devastation
+- Fireworks/marigolds/whisky = the moment that closes every foreigner account ("I'll never experience this again")
 -->

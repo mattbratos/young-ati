@@ -1,68 +1,64 @@
-[Intro - male voice]
+[Chorus x 2- Male robotic Travis scott]
 In Defender through Delhi and I'm drunk as fuck (skrrt)
-My boy is a local, got a rarri in garage
+My boy is a local, got a rarri where he parks 
 Jewel of Mumbai drops sari, got the horrrrniest eyes
 Don't believe in magic? Son, go count the lakhs
 
 [Verse 1]
 Too old for the rap, too young for NASDAQ (nah)
-Half hacker half rapper like I'm glitching in the Matrix
-Pink tracksuit, I'm the Vegeta of this startup arc
-Super Saiyan CEO but the power's getting dark (damn)
+Half hacker half rapper like I'm glitchin' in the Matrix
+Pink magenta tracksuit, feel like Power Ranger 
+Flow my weapon, but if not rap I would work in brazzers 
 
-I'm cookin' books and dough like I'm Heisenberg in Crocs
-They call me CEO, my therapist calls it a hoax
-Steel core, heavy shoulders, I'm the Atlas of the code (heavy)
-Walk through Stanford's campus like I'm Burry — "I told you so"
+Call me Krispy Kreme cause I'm always cookin' dough (sheesh)
+Code, drugs and hoes vibe like Heisenberg in Crocs
+So much on my shoulders, core of steel and chrome (heavy)
+Stanford campus, walk like Burry — "bitch I told you so" (damn)
 
-Masala chai, I wash the Xanax down with lentil soup
+[Bridge - Melodic Bollywood Singing Slower Female voice]
+Masala chai for breakfast with a lentil soup
 Fat man with a Bentley asks me — bro what do you do
-I teach silicon to dream, that's some Prometheus-type loop (sheesh)
+I teach rocks to dream, that's some Prometheus-type loop (sheesh)
 Nah for real I'm building God and charging for the proof
 
-[Bridge - Melodic Singing Slower Female voice]
-Masala chaaai for breakfast with the lentil
-Next to me fat rich man with a big Bentley
-Asks me what I do... I drop bars sequential
-Nah for real I teach the rocks to thiiiink — that's monumental
-
-[Chorus - more club banger]
+[Chorus x 2- Male robotic Travis scott]
 In Defender through Delhi and I'm drunk as fuck (skrrt)
-My boy is a local, got a rarri in garage
+My boy is a local, got a rarri where he parks 
 Jewel of Mumbai drops sari, got the horrrrniest eyes (damn)
 Don't believe in magic? Son, go count the lakhs
 
 [Verse 2]
-Cows digest the plastic, I digest the trauma (moo)
-Ex was aspartam — sweet on top, empty like a Prada
-Fuckers on the road drive like it's Mario Kart Banana (skrrt)
-But I drive my life the same, no brakes from Warsaw to Havana
+Cows on every street, think they digest plastic (moo)
+I tried that with my ex and failed — heh, just sarcastic
+Fuckers on the road like it's Mario Kart (skrrt)
+But I drive my life the same — no brakes, fallin' apart
 
-Cashmere kink, yellow fever, I'm a Pokédex of vices (uuuuuu)
-Women in my DMs like I'm posting Zillow prices (woo!)
-Five star hotel, room smells like mezcal and bad decisions
-Dropped the acid, now the ceiling looks like Ghibli compositions (wooo)
+[flow switch more melodic and silence the beat] 
+Love it when they look different cashmere kink and yellow fever
+Non-monochromatic woman stormin' in my DMs (woo!)
+Five star hotel, coked-up whiteboy, hot latina stripper (sheesh)
+Dropped LSD, watchin' stars like a mission breacher (wooo)
 
 [switch flow — tighter, punchier]
-Money doesn't grow on trees, it grows on sleepless nights
-It's not your girl with the vibrator doin' overtime <!-- PL: kurwa, that bar -->
-Sprint a marathon like Kipchoge on Adderall and spite (let's go)
-I assemble all my shit then disassemble her tonight (god damn)
+Money won't make itself you lazy piece of shit (nah)
+Ain't your girl at home who does the work with plastic dick (hah)
+Life a marathon, but I'm sprinting like Kipchoge (let's go)
+All that pain was worth it when I see her body (god damn)
 
-[Bridge - Melodic Singing Slower Female voice]
-Masala chaaai for breakfast with the lentil
-Next to me fat rich man with a big Bentley
-Asks me what I do... I drop bars sequential
-Nah for real I teach the rocks to thiiiink — that's monumental
+[Bridge - Melodic Bollywood Singing Slower Female voice]
+Masala chai for breakfast with a lentil soup
+Fat man with a Bentley asks me — bro what do you do
+I teach rocks to dream, that's some Prometheus-type loop (sheesh)
+Nah for real I'm building God and charging for the proof
 
-[Chorus - more club banger]
+[Chorus x 2- Male robotic Travis scott]
 In Defender through Delhi and I'm drunk as fuck (skrrt)
-My boy is a local, got a rarri in garage
+My boy is a local, got a rarri where he parks 
 Jewel of Mumbai drops sari, got the horrrrniest eyes (damn)
 Don't believe in magic? Son, go count the lakhs
 
 
-**Suno style prompts:**
+
 
 Dark trap, Indian fusion, aggressive rap, 808 bass, tabla percussion, fast flow, cocky delivery, female melodic bridge, 140 BPM
 

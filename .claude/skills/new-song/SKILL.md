@@ -1,5 +1,5 @@
 ---
-name: young-ati-write-new-song
+name: new-song
 description: Write a new song as Young ATI from scratch. Interviews the artist about what's happening in their life, asks targeted questions to find the emotional core, then writes a complete track with lyrics, Suno style prompts, and flow notes.
 user_invocable: true
 ---

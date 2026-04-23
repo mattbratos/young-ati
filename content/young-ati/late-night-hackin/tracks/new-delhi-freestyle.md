@@ -4,95 +4,20 @@ My boy is a local, got a rarri where he parks
 Jewel of Mumbai drops sari, got the horrrrniest eyes
 Don't believe in magic? Son, go count the lakhs
 
----
+[Verse 1]
+Thought we grabbing beer,  bro showed up in ferrarri
+Landed noise, chaos, noise and smog I feel like on safari
+Immediately got sick but that ain't delhi belly (ain't delhi belly)
+much worse I think cause I got cashmere kink (I'm meltiiiing)
 
-<!-- ============================================================
-     VERSE 1 — pick one option
-     ============================================================ -->
+Their clothes so modest but their thoughts are not, 
+never would have thought that this could be so hot
 
-[Verse 1 — OPTION A: Original Rewritten]
-Too old for the rap game, too young to play the NASDAQ (nah)
-Half hacker half rapper like I'm glitchin' in the Matrix, no setback
-Pink magenta tracksuit got me feeling like a Power Ranger morphin' (woo)
-Rap don't stack enough? I'm showing up to Brazzers every morning (hah)
-
-Krispy Kreme — I'm always in the kitchen, movin' dough (sheesh)
-Code and drugs and hoes — Heisenberg aesthetic, let it flow
-Weight of every choice on my shoulders, built my core with steel and chrome (heavy)
-Stanford campus, walk like Burry through the crash — bitch, I told you so (damn)
-
----
-
-[Verse 1 — OPTION B: Delhi Wedding — The Arrival & Baraat]
-Left Warsaw grey in January, six hours, landed in the smog (damn)
-Marigold and diesel in the air — I'm not in Praga anymore (woo)
-Gora shows up to the farmhouse, thousand auntie eyes lock on (sheesh)
-JW Black appeared before I even had a chance to ask for one (damn)
-
-Groom arrived on horseback through the smoke with fireworks poppin' (yeah)
-Six dudes carrying LED towers on their heads and I kept watchin'
-Dhol drum fifty meters out still hit my chest like glass was breakin' (woo)
-This is not a moment in my life that I could think of fakin' (god damn)
-
----
-
-[Chorus x 2 - Male robotic Travis Scott]
-In Defender through Delhi and I'm drunk as fuck (skrrt)
-My boy is a local, got a rarri where he parks
-Jewel of Mumbai drops sari, got the horrrrniest eyes (damn)
-Don't believe in magic? Son, go count the lakhs
-
----
-
-<!-- ============================================================
-     VERSE 2 — pick one option
-     ============================================================ -->
-
-[Verse 2 — OPTION A: Original Rewritten]
-Cows on every street and half of 'em are eating up the plastic (moo)
-I tried that approach with my last ex and failed — heh, just sarcastic (hah)
-Everyone out on the road driving like it's Mario Kart (skrrt)
-But I been driving through my whole damn life the same — no brakes, falling apart
-
-[flow switch more melodic and silence the beat]
-Love it when she's different — cashmere kink and yellow fever (woo)
-Brown and black and gold and olive skin come ringin' at the speaker (yeah)
-Five star hotel room, white boy in the suite, hot latina keeper (sheesh)
-Dropped the LSD and watched the stars from up above the ether (wooo)
-
-[switch flow — tighter, punchier]
-Money doesn't print itself, go get up lazy motherfucker (nah)
-Not your girl back home who clocks in overtime with a rubber (hah)
-Life's a marathon but I'm the Kipchoge of my city (let's go)
-Every mile of pain paid off the second that I saw her — goddamn she's pretty (god damn)
-
----
-
-[Verse 2 — OPTION B: Delhi Wedding — The Sangeet Night]
-Sangeet night and half the family's been rehearsing since September (damn)
-Fifteen aunties hit the stage in full lehenga, looking proper (woo)
-JW Blue arrived before I even chose a seat — they pour it (yeah)
-They grabbed the gora by the arm and dragged me to the dance floor for it (hah)
-
-Circle formed and the whole crowd went up — I still don't get why (sheesh)
-Sixty-five-year-old uncle bhangra'd for an hour — man don't die
-Every auntie hit me: beta, married? No? Beta, you should plan (woo)
-Told her I'm building God — she said: first build a family, young man (god damn)
-
----
-
-[Verse 2 — OPTION C: Delhi Wedding — Haldi & The Ceremony]
-They put the haldi on my face before I read the room (yeah)
-Three days yellow, all my clothes destroyed, still smelling like the bloom
-Mehndi room smells sharp like eucalyptus mixed with sugar cane (woo)
-Golgappa at the counter, fresh jalebi straight from flame (sheesh)
-
-Paan man folded something in a leaf and told me don't swallow (hah)
-Stood there with a red mouth thinking — Warsaw seems so hollow
-Bride began to cry when leaving and I didn't expect that part (damn)
-Fireworks and marigolds and whisky — bro, I lost my heart (god damn)
-
----
+White devil in the building, eyes are drilling,  signed the pact, so gonna play my role (play my rooooole)
+I'm their forbidden fruit, their indra and their shiva, their challange and their goal (their challange and their gooooal)
+ 
+Oh baby wait, don't look at me,  your eyes scream I'm on your bucket list (your moms says nooo)
+But baby wait, and move your hips, tonight you can sin,  your gods are asleep (they don't looook)
 
 [Bridge - Melodic Bollywood Singing Slower Female voice]
 Masala chai for breakfast with a lentil soup
@@ -106,6 +31,29 @@ My boy is a local, got a rarri where he parks
 Jewel of Mumbai drops sari, got the horrrrniest eyes (damn)
 Don't believe in magic? Son, go count the lakhs
 
+[Verse 2]
+Indian goddess in the tuk-tuk god it's almost Sunrise (damn)
+Smog and neons, smog and neons, honking, fire in her eyes
+After party in the slums — rooster, dawn, a cow said moo (moo)
+Never had a morning like this back  in Poland, that's the truth (damn)
+
+[slow singing flow travis voice]
+ Five star hotel, Gurugram, just dropped LSD (just dropped LSD, LSD)
+ She moves like Kali in slow motion and she's looking right at me (right at meee)
+ Never been so hiiiiigh and she's droppin on her knees (on her knees)
+ I've never lived like this — just a weird autistic kid (autistic kiiiid)
+
+[Bridge - Melodic Bollywood Singing Slower Female voice]
+Masala chai for breakfast with a lentil soup
+Fat man with a Bentley asks me — bro what do you do
+I teach rocks to dream, that's some Prometheus-type loop (sheesh)
+Nah for real I'm building God and charging for the proof
+
+[Chorus x 2 - Male robotic Travis Scott]
+In Defender through Delhi and I'm drunk as fuck (skrrt)
+My boy is a local, got a rarri where he parks
+Jewel of Mumbai drops sari, got the horrrrniest eyes (damn)
+Don't believe in magic? Son, go count the lakhs
 
 
 **Suno style prompts:**

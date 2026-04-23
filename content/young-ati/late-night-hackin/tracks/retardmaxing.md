@@ -1,40 +1,45 @@
 
-[Verse 1]
-
-Holiday in Europe, and I'm tryin' to get hiiiiigh
-Hit up a random black guy and he the plug
-When you wanking to Huberman I'm just livin' a joyful life
-LSD plus model equals greatest night (aye)
-
-Andreessen said "day twenty K, and it's goin' great" (woo!)
-Fifty years of retardmaxing, and he a fuckin' billionaire
-Zero introspection, retard bro I think we are the same
-Soyboys tryin' get their dicks wet, sayin' that's so bad
-
-[switch the flow]
-Pussy and religion all I neeeeeeed
-but I happen to be atheist
-I'm worshiping beats insteeeeeead
-but it happens mine's the waviest
-pussy pussy pussy don't you think 'bout anything else?
-yeah you right, your mom is tired, let her browse the internet
-
-Everybody optimizing, planning every move (nah)
-Vision boards and spreadsheets, man they terrified to lose (uh)
-I deleted every plan, threw my journal in the trash (sheesh)
-Started retardmaxing and I can't get enouuuugh (woo!)
-
-
-
-[Soulful Sample]
+[intro singing choir]
 Fuck Zarathustra, fuck Republic, fuck the Prince
 All those books just taught me how to overthink
 
-[Chorus x2]
-I'm a fucking retard and oh my god it's fine
-Ever since I got retarded my life is pure fun,
-I ain't fake hoe in Cannes with even fakier smile
-Retardmaxin level hard, no need to pose or shine
+[Verse 1]
+Holiday in Europe, and I'm tryin' to get high
+Hit up a random black guy, he the plug (plug)
+When you wank to Huberman I'm livin' my best life 
+LSD plus Asian model equals greatest night (woo)
+
+Andreessen day twenty K, and it's goin' great (woo!)
+Fifty years of retardmaxing, and he a billionaire (sheesh)
+Zero introspection, retard bro — I think we the same
+Soyboys tryin' to get their dicks wet, sayin' that's so bad (damn)
+
+Pussy and religion all I neeeeeeed 
+but I happen to be atheist
+I'm worshiping beats insteeeeeeeead 
+but it happens mine's the waviest
+pussy pussy pussy don't you know nothing else?
+yeah you right, your mom is tired, let her browse the internet
+
+Seven days in office, haven't spoken to a human (uh)
+No shower, ramen, Domino's — that's the fuel I'm usin' (nah)
+Smell like a raccoon, my hygiene fully ruined (sheesh)
+But the product shipped — retardmax, keep it movin' (yeah)
+
+[chorus - singing opera choir] 
+I'm a fucking retard and oh my god it's fine (oh my god it's fine)
+Ever since I got retarded my life is pure fun (fun retarded life)
+I ain't fake hoe in Cannes with even fakier smile (fuck them in the ass)
+Retardmaxin level hard, no need to pose or shine (I'm retarded as fuck)
+
+
+I'm a fucking retard and oh my god it's fine (oh my god it's fine)
+Ever since I got retarded my life is pure fun (fun retarded life)
+I ain't fake hoe in Cann with even fakier smile (fuck them in the ass)
+Retardmaxin level hard, no need to pose or shine (I'm retarded as fuck)
+
+
+
 
 [Verse 2]
 Got the baddest Asian, she was fire (god damn)
@@ -45,49 +50,31 @@ Came so fast I speedran love and retired (sheesh)
 Seventeen I bagged a dime, she twenty-seven (wow)
 She so bad I thought I skipped the line to heaven (yeah)
 Blacked out on the date, threw up and pissed my jeans (nah)
-Woke up in the vomit — one less shot next time, don't overthink
+Woke up in the vomit — one less shot, don't overthink (uh)
 
 Picked a baddie up in Costco, she had pretty eyeeeees
 Cute face, sexy voice, I thought she was the prizeeeeee
 Back to the crib, she pulled a big surprise (hold on)
 Every hole a goal just close your eyes it's fineeee
 
-Broke up with my girl, I cried a month, it broke me bad (damn)
-Still think she love of my life, the best I had (...yeah)
-Can't find anyone who's half as fun, I miss what's gone
-But it's fine, retardmax, we move, we moving on (I'm lying)
-Z
-[Soulful Sample]
-Fuck Zarathustra, fuck Republic, fuck the Priiiiince
-All those books just taught me how to overthink and wiiiiince
-
-[Chorus x2]
-I'm a fucking retard and oh my god it's fine
-Ever since I got retarded my life is pure fun,
-I ain't fake hoe in Cannes with even fakier smile
-Retardmaxin level hard, no need to pose or shine
-
-
-[Verse 3]
-Hired CTO, worked together half a year (yeah)
-One night read his code and bro, the vision got so clear (nah)
-Deleted every line — command-A, delete, it's fine (sheesh)
-Six months work, gone — but at least the code is mine (woo!)
-
-Lost fifty pounds and I'm still looking fucking fat (nah)
-Skinny-fat genetics, bro I guess it's where I'm at (damn)
-Gym 6 times a week and got belly like a random dad (ugh)
-Retardmax the body — honestly, it ain't that bad (woo!)
-
-Seven days in office, haven't spoken to a human (uh)
-No shower, ramen, Domino's — that's the fuel I'm usin' (nah)
-Smell like a raccoon, my hygiene fully ruined (sheesh)
-But the product shipped — retardmax, keep it movin' (yeah)
-
-Every fuck-up is a story, every L is for the track (yeah)
-Every scar's a punchline, bro I don't want my time back (facts)
-What don't kill me makes me funnier — and honestly, that's great (sheesh)
+Every fuck-up is a story, every L's for the track (yeah)
+Every scar's a punchline, I don't want my time back (facts)
+What don't kill me makes me funnier, that's just great (sheesh)
 Retardmaxing till the grave, I'll be early, never late (woo!)
+
+[chorus - singing opera choir] 
+I'm a fucking retard and oh my god it's fine (oh my god it's fine)
+Ever since I got retarded my life is pure fun (fun retarded life)
+I ain't fake hoe in Cannes with even fakier smile (fuck them in the ass)
+Retardmaxin level hard, no need to pose or shine (I'm retarded as fuck)
+
+
+I'm a fucking retard and oh my god it's fine (oh my god it's fine)
+Ever since I got retarded my life is pure fun (fun retarded life)
+I ain't fake hoe in Cann with even fakier smile (fuck them in the ass)
+Retardmaxin level hard, no need to pose or shine (I'm retarded as fuck)
+
+
 
 
 
@@ -189,6 +176,21 @@ Maximalist orchestral, chopped soul samples, gospel choir, lush strings, grandio
 - V2 B2 L4: "Woke up all in vomit, next time one shot less don't overthink" → "Woke up in the vomit — one less shot next time, don't overthink" — original was a syllable pile-up; reordered "one less shot next time" to land cleaner on the pocket
 - V2 B3 L1: "Cosco" → "Costco" — typo
 - V3 B2 L3: "Gym 6 time a week" → "Gym 6 times a week" — typo
+
+**Flow changes (2026-04-20):**
+- V1 B1 L2: "Hit up  random black guy and he the plug" → "Hit up a random black guy, he the plug (plug)" — double space + missing article + first adlib in bare block
+- V1 B1 L3: "huberman" → "Huberman", "living" → "livin'"
+- V1 B1 L4: added (woo) — block still had no adlibs after L1-3 dry
+- V1 B2 L1: stray quote removed, "goin" → "goin'"
+- V1 B2 L2: "he billionaire" → "he a billionaire (sheesh)" — article + punchline adlib on the flex
+- V1 B2 L3: "I think we are the same" → "I think we the same" — dropped "are" for pocket
+- V1 B2 L4: "tryin get", "sayin" → "tryin' to get", "sayin'" + added (damn)
+- [switch the flow] grammar cleanup: "I'm happend to be atheists" → "I happen to be atheist", "it happend mine the waviest" → "it happens mine's the waviest", "browse some internet" → "browse the internet"
+- V2 B2 L4: "one less shot next time, don't overthink" → "one less shot, don't overthink (uh)" — trimmed 3 syllables, V2 was speeding past V1 pacing
+- V2 B4 L1: "every L is for the track" → "every L's for the track" — contract to breathe
+- V2 B4 L2: "bro I don't want my time back" → "I don't want my time back" — dropped "bro" filler
+- V2 B4 L3: "makes me funnier — and honestly, that's great" → "makes me funnier, that's just great" — cut from 15 syl to 11, lands on the pocket now
+- Chorus (all 4 instances): added sung echo adlibs (fiiiiine / pure fuuuuun / fake smiiiile / no shiiiine) to match the opera choir tag — call-and-response energy the chorus was missing
 
 **Suggestions:**
 - The "(I'm lying)" adlib could be extended: "(I'm lying... but we don't talk about that)" if artist wants more

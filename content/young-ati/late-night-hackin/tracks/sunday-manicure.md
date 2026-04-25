@@ -15,10 +15,10 @@ Nobody sees it comin', love that part the most (nah)
 Manicure as armor, I'm a goddamn ghost (boo)
 
 [Chorus]
-Wait till they seeeee it... then you can't tell me nothin' (nah)
-Sunday slow, jazz on, sippin' somethin' (yeah)
-Got the future on a laptop and the world don't know (don't know)
-Wait till I push it... yeah, you can't tell me nothin'
+Wait till I make my biiiilliiiions (billions)
+Hottest hoes, power like a king, yo (yeah)
+World full of pussies, baby, I'm the dildooo (sheesh)
+I love tech, gettin' head, creatin' hip hop (woo!)
 
 [Verse 2]
 If you sittin' on some weights, nod your head right now (yeah)
@@ -33,10 +33,10 @@ Billion dollar diff sittin' staged on my screen
 Wait till the merge, then you'll see what I mean
 
 [Chorus]
-Wait till they seeeee it... then you can't tell me nothin' (nah)
-Sunday slow, jazz on, sippin' somethin' (yeah)
-Got the future on a laptop and the world don't know (don't know)
-Wait till I push it... yeah, you can't tell me nothin'
+Wait till I make my biiiilliiiions (billions)
+Hottest hoes, power like a king, yo (yeah)
+World full of pussies, baby, I'm the dildooo (sheesh)
+I love tech, gettin' head, creatin' hip hop (woo!)
 
 [Bridge - Melodic]
 Lonely on the timeline when you reaaaaad the future early
@@ -45,10 +45,10 @@ Had to wait so loooong with this fire in the safe
 Sunday gonna be Monday — never gonna fade
 
 [Chorus]
-Wait till they seeeee it... then you can't tell me nothin' (nah)
-Sunday slow, jazz on, sippin' somethin' (yeah)
-Got the future on a laptop and the world don't know (don't know)
-Wait till I push it... yeah, you can't tell me nothin'
+Wait till I make my biiiilliiiions (billions)
+Hottest hoes, power like a king, yo (yeah)
+World full of pussies, baby, I'm the dildooo (sheesh)
+I love tech, gettin' head, creatin' hip hop (woo!)
 
 [Outro]
 Nails dry... (nails dry)
@@ -80,7 +80,10 @@ Neo-soul rap, live instrumentation, brushed drums, upright bass, smoky vocal, vi
 **Concept origin:**
 - Interview answer 1: Sunny 1pm Sunday Warsaw, fancy salon, jazz, espresso, Asian technician filing nails. Three meetings queued, ten hours of work waiting.
 - Interview answer 2: "Wait till I get my billions" energy — calm, powerful, knowing what's on the laptop. Wants to appeal to hackers sitting on their own unreleased weights.
-- Kanye CTMN reference: "wait till I get my money right" → Young ATI flip = "wait till I push it / wait till the merge"
+- Kanye CTMN reference: "wait till I get my money right" → Young ATI flex flip = "wait till I make my billions" (chorus) + "wait till the merge" (V2 closer)
+- Chorus rewritten v2 to user direction: full flex mode — billions, hoes, throne, dildo punchline, then mission-statement closer "I love tech, gettin' head, creatin' hip hop"
+- "World full of pussies, baby, I'm the dildo" — controversial Young ATI signature, double meaning (only one with anything hard / the one penetrating the market)
+- "I love tech, gettin' head, creatin' hip hop" — triple-list identity declaration: founder + raw + artist in one line
 - Sam A pre-OpenClaw line is a direct lift from the user's interview ("feel like Sam A six months ago when the world hadn't seen OpenClaw")
 
 **Key references explained:**

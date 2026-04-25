@@ -1,18 +1,18 @@
 [Intro]
-Sunday in Warsaw, jazz and gel polish (yeah)
-War in my head while she filing my nails (sheesh)
+Sunday in Warsaw, jazz and manicure (yeah)
+Tech war going on while Europe sleeps in peace
 
 [Verse 1]
 Sunny Sunday, salon chair, espresso on the side (uh)
-Hot girl filing while my future's on a hard drive (woo!)
+Hot girl filing while the future's on my hard drive (woo!)
 Three meetings queued, ten hours in the pipe
 Look like I'm chillin', boy I'm loadin' up the strike
 Jazz piano playin', nobody hears the bomb (boom)
-Six months ago Sam A. was just this calm (damn)
+Six months ago Stain Pete was just this calm (damn)
 Polish kid pink hair gettin' nails done in peace
 While the timeline I'm cookin' bring 'em to they knees (sheesh)
 Nobody sees it comin', love that part the most (nah)
-Manicure as armor, I'm a goddamn ghost (boo)
+Manicure as armor, I'm your future god
 
 [Chorus]
 Wait till I make my biiiilliiiions (billions)
@@ -24,7 +24,7 @@ I love tech, gettin' head, creatin' hip hop (woo!)
 If you sittin' on some weights, nod your head right now (yeah)
 If your laptop got a secret, throw it up right now (woo!)
 Brotherhood of the unreleased, we about to feast (sheesh)
-Quiet kids in coffee shops plottin' to slay the beast
+Quiet hackers in coffee shops plottin' to slay the beast
 Sunday afternoon disguise, then the nukes go boom (boom)
 Three AM in Warsaw lookin' like a war room
 Teasin' the whole world like a horny little bitch (damn)
@@ -87,9 +87,11 @@ Neo-soul rap, live instrumentation, brushed drums, upright bass, smoky vocal, vi
 - Sam A pre-OpenClaw line is a direct lift from the user's interview ("feel like Sam A six months ago when the world hadn't seen OpenClaw")
 
 **Key references explained:**
-- "Hot girl filing while my future's on a hard drive" — double meaning: nail file vs file on disk
-- "Six months ago Sam A. was just this calm" — Sam Altman pre-ChatGPT public release; cocky-calm parallel
-- "Manicure as armor, I'm a goddamn ghost" — the salon visit as camouflage for the war room
+- "Tech war going on while Europe sleeps in peace" (intro) — artist edit; whole song's thesis in one bar, sleepy-Europe vs invisible-tech-revolution contrast
+- "Hot girl filing while the future's on my hard drive" — double meaning: nail file vs file on disk
+- "Six months ago Stain Pete was just this calm" — artist's private reference (kept verbatim from interview); cocky-calm parallel to a known operator pre-launch
+- "Manicure as armor, I'm your future god" — artist edit; flex closer, no adlib needed — the line IS the punch
+- "Quiet hackers in coffee shops" (artist edit) — sharper audience targeting than the original "kids"
 - "If you sittin' on some weights, nod your head right now" — direct call to the hacker brotherhood with unreleased model weights
 - "Brotherhood of the unreleased" — the audience the artist asked for
 - "Teasin' the whole world like a horny little bitch / Got 'em droolin' on the timeline 'fore I put it in" — user-added bar, double entendre on release/sex/AI launch hype cycle, edging the timeline before the drop

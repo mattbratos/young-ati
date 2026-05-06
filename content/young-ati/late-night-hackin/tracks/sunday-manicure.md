@@ -17,8 +17,8 @@ Manicure as armor, I'm your future god
 [Chorus]
 Wait till I make my biiiilliiiions (billions)
 Hottest hoes, power like a king, yo (yeah)
-World full of pussies, baby, I'm the dildooo (sheesh)
-I love tech, gettin' head, creatin' hip hop (woo!)
+In the world full of pussies, baby, I'm the dildooo (sheesh)
+I love tech, gettin' head, and writin' hip hop (woo!)
 
 [Verse 2]
 If you sittin' on some weights, nod your head right now (yeah)
